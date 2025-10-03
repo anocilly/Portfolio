@@ -1,11 +1,11 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Andrew Nocilly - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Recent Resume.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
