@@ -13,11 +13,11 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Andrew Nocilly
 description              : Andrew Nocilly - Projects and CV 
-baseurl                  : "/fa25-portfolio-afn28/" # Set this to your repo name 
+baseurl                  : "/Portfolio" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: dark # light/default, dark, or aqua
+color_scheme: light # light/default, dark, or aqua
 
 sass:
   style: compressed
