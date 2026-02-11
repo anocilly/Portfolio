@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: school_project
 title: Linear Actuator Load Support
 description: Theoretical Design Project
 image: /assets/images/linear_actuator_design.png

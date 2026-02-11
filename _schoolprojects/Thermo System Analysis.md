@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: school_project
 title: Thermodynamics System Analysis
 description: Turbine Analysis Project
 image: /assets/images/thermo ec/cornellhydrogen.jpg
