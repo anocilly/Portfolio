@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Andrew Nocilly - Curriculum Vitae
+title: Andrew Nocilly - Personal Info
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/Recent Resume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [andrewnocilly@gmail.com](mailto:andrewnocilly@gmail.com) | | | **Phone:** +1 315 800 2449
 
 ---
 
@@ -19,18 +19,18 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Mechanical, Minor in Aerospace Engineering*  
+  GPA: 3.9/4.3 | Graduation: May, 2028 (Expected)
 
-- **[High School Name]**  
+- **Fayetteville-Manlius High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: May, 2024
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
+- **Software:** Autodesk Fusion 360, Autodesk Inventor
+- **Programming:** Python, MATLAB, Java
 - **Tools:** 3D Printing, Laser Cutting  
 
 ---
