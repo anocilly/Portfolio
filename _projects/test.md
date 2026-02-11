@@ -1,7 +1,7 @@
 ---
 layout: school_project
-title: test
-description: testing funning
+title: SVD
+description: First Pose Estimation Algorithm
 image: /assets/images/linear_actuator_design.png
 ---
 
