@@ -1,12 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\assets\\css",
+    "\\assets\\images",
+    "\\_layouts",
     "\\_pages",
     "\\_projects",
     "\\_sass"
   ],
-  "SelectedNode": "\\_projects\\Statics Design 1.md",
+  "SelectedNode": "\\_layouts\\default.html",
   "PreviewInSolutionExplorer": false
 }

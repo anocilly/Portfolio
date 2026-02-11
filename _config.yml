@@ -31,6 +31,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  schoolprojects:
+    output: true
+    permalink: /:collection/:path/
 
 # Markdown
 markdown: kramdown
