@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub personal\\Personal Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\OneDrive\\Documents\\GitHub personal\\Personal Portfolio\\_schoolprojects\\Thermo System Analysis.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_schoolprojects\\Thermo System Analysis.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\OneDrive\\Documents\\GitHub personal\\Personal Portfolio\\_projects\\test.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_projects\\test.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\OneDrive\\Documents\\GitHub personal\\Personal Portfolio\\_schoolprojects\\Statics Design 1 updated.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_schoolprojects\\Statics Design 1 updated.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\OneDrive\\Documents\\GitHub personal\\Personal Portfolio\\_layouts\\default.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\default.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\OneDrive\\Documents\\GitHub personal\\Personal Portfolio\\_schoolprojects\\Statics Design 1.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_schoolprojects\\Statics Design 1.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\OneDrive\\Documents\\GitHub personal\\Personal Portfolio\\_pages\\cv.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\cv.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,67 +22,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Thermo System Analysis.md",
-              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub personal\\Personal Portfolio\\_schoolprojects\\Thermo System Analysis.md",
-              "RelativeDocumentMoniker": "_schoolprojects\\Thermo System Analysis.md",
-              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub personal\\Personal Portfolio\\_schoolprojects\\Thermo System Analysis.md",
-              "RelativeToolTip": "_schoolprojects\\Thermo System Analysis.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-11T21:45:48.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Statics Design 1.md",
-              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub personal\\Personal Portfolio\\_schoolprojects\\Statics Design 1.md",
-              "RelativeDocumentMoniker": "_schoolprojects\\Statics Design 1.md",
-              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub personal\\Personal Portfolio\\_schoolprojects\\Statics Design 1.md",
-              "RelativeToolTip": "_schoolprojects\\Statics Design 1.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-11T21:45:48.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Statics Design 1 updated.md",
-              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub personal\\Personal Portfolio\\_schoolprojects\\Statics Design 1 updated.md",
-              "RelativeDocumentMoniker": "_schoolprojects\\Statics Design 1 updated.md",
-              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub personal\\Personal Portfolio\\_schoolprojects\\Statics Design 1 updated.md",
-              "RelativeToolTip": "_schoolprojects\\Statics Design 1 updated.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-11T21:45:47.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "test.md",
               "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub personal\\Personal Portfolio\\_projects\\test.md",
               "RelativeDocumentMoniker": "_projects\\test.md",
               "ToolTip": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub personal\\Personal Portfolio\\_projects\\test.md",
               "RelativeToolTip": "_projects\\test.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-11T21:28:30.354Z",
+              "WhenOpened": "2026-05-04T16:13:28.492Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "default.html",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub personal\\Personal Portfolio\\_layouts\\default.html",
+              "RelativeDocumentMoniker": "_layouts\\default.html",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub personal\\Personal Portfolio\\_layouts\\default.html",
+              "RelativeToolTip": "_layouts\\default.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-04T16:12:31.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cv.md",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub personal\\Personal Portfolio\\_pages\\cv.md",
+              "RelativeDocumentMoniker": "_pages\\cv.md",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub personal\\Personal Portfolio\\_pages\\cv.md",
+              "RelativeToolTip": "_pages\\cv.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-11T22:04:46.243Z",
+              "EditorCaption": ""
             }
           ]
         }
