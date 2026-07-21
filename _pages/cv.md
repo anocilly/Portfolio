@@ -13,7 +13,7 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in mechanical design, data analysis, situational modeling. Passionate about automated systems, software design, and aerospace techology and eager to explore real-world applications.
 
 ---
 
@@ -29,42 +29,26 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, Autodesk Inventor
-- **Programming:** Python, MATLAB, Java
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk, SolidWorks, Excel
+- **Programming:** Python, MATLAB, Java, LabVIEW
+- **Tools:** 3D Printing, RF and electronic test equipment (oscilloscopes, voltmeters, signal analyzers)
 
 ---
 
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
----
-
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+#### Experience
+- **SRCTec, LLC - Radar Test Engineering Intern**  
+  Summer 2026
+- **Cornell University - Research Assistant**  
+  Spring 2025 - Present
+- **Syracuse University - Research Assistant**  
+  Summer 2024
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- The Bart Conta Prize in Energy and the Environment, Cornell University, 2026
 
----
-
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+Awarded to undergraduate and graduate students in MAE for the best work on a reasearch or design project dealing with energy and the environment.
 
 ---
 

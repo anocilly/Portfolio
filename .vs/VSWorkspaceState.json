@@ -2,6 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\assets",
+    "\\assets\\css",
     "\\assets\\images",
     "\\_layouts",
     "\\_pages",
@@ -9,6 +10,6 @@
     "\\_sass",
     "\\_schoolprojects"
   ],
-  "SelectedNode": "\\_projects\\test.md",
+  "SelectedNode": "\\_pages\\slf-design-project-mae-2250.md",
   "PreviewInSolutionExplorer": false
 }
